@@ -1,4 +1,4 @@
-module github.com/co-coders/go-http-api-crud-basic
+module github.com/co-coders/go-rest-api-basic
 
 go 1.17
 
